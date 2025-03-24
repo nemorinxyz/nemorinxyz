@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Nicolas M. / BeKuhl</h1>
 <h3 align="center">A Developer from Germany who has been working with Servers for 7 years and is now trying his hand at Lua</h3>
 
-- ⚒️ I’m currently working on [SN_Blackout](https://github.com/StrikeNet-Tech/SN_Blackout)
+- ⚒️ I’m currently working on TN_Utils
 
 - 🌱 I’m currently learning **Lua**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/https://www.youtube.com/@music_bekuhl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@music_bekuhl" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@To_Ka_Sa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@music_bekuhl" height="30" width="40" /></a>
 <a href="https://discord.gg/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="soon" height="30" width="40" /></a>
 </p>
 
