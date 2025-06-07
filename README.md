@@ -1,11 +1,11 @@
-<h1 align="center">Hey 👋, I'm Nicolas M. / BeKuhl</h1>
+<h1 align="center">Hey 👋, I'm Nicolas M. / Nemorin</h1>
 <h3 align="center">A Developer from Germany who has been working with Servers for 9 years and is now trying his hand at Lua</h3>
 
 - ⚒️ I’m currently working on TN_Utils
 
 - 🌱 I’m currently learning **Lua**
 
-- 📫 How to reach me **Discord: yt_BeKuhl**
+- 📫 How to reach me **Discord: nemorin.xyz**
 
 - ⚡ Fun fact **I started working with Servers when I was 9**
 
